@@ -9,4 +9,4 @@ Silahkan gunakan format berikut : <br>
 **\* Nama, [Linkedin/GitHub/Website](Alamat URL).**
 
 Berikut adalah daftar Volunter yang diterima:
-* Sha Ijliin, [Github](https://github.com/shaIijlin/).
+* -
